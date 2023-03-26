@@ -1,4 +1,4 @@
-# Muhammadxon_2oo7
+# Assalomu aleykum 
 <div align='center'>
 <img  src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" />
  </div>
@@ -17,7 +17,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammadxon-2oo7&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Muhammadxon2oo7&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div align="center">
@@ -64,8 +64,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <!-- BLOG-POST-LIST:START -->
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Muhammadxon-2oo7&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Muhammadxon2oo7&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadxon-2oo7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadxon2oo7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- BLOG-POST-LIST:END -->
